@@ -1,0 +1,95 @@
+.bg-img{
+   
+    background-color:#00224D;
+    background-blend-mode:darken ;
+    background-size:contain;
+}
+
+.header{
+    margin-bottom: 200px;
+}
+
+.logo h1{
+    padding: 30px 40%;
+    background-color:#C9D7DD;
+    justify-content: end;
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card .card-img-top{
+    height: 200px;
+    object-fit: cover;
+    background-size: cover;
+    transition: all 0.5s;
+    background-position: center;
+}
+.card{
+    overflow: hidden;
+    transition: all 0.5s;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color:#304D30;
+}
+
+.card .card-img-top:hover{
+    transform: scale(1.2);
+   
+  
+}
+
+.card{
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: italic;
+    color:#304D30;
+    font-variation-settings:
+      "width" 100;
+    background-color: #F0F0F0 !important;
+   
+}
+
+.card h5{
+    text-align: left;
+    font-size: 22px;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+.card p{
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    
+    
+
+} 
+
+.card-body span{
+    padding:50px 0;
+   
+}
+button{
+    font-family: "Briem Hand", cursive!important;
+    justify-content: space-evenly;
+    background-color:#CDE8E5 !important;
+    color: black !important;
+    font-weight: 900 !important;
+    font-size: 25px !important;
+}
+
+.button-1 {
+ 
+    
+    color:#304D30;
+    display: inline-block;
+  }
+  .button-1:hover {
+    box-shadow: 0 0 10px 0 white inset, 0 0 20px 2px white;
+    
+  }
+  
